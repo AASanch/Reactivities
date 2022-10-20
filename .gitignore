@@ -30,3 +30,12 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+
+# Client
+
+# dependencies
+
+# misc
+.DS_Store
+.env
+npm-debug.log
